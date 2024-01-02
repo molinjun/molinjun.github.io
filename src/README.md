@@ -34,7 +34,7 @@ features:
 footer: 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备20027343</a>
 ---
 
-<!-- ![](https://pic.imgdb.cn/item/63f76e3bf144a01007ce499c.jpg) -->
+![](/wechatmp4.png)
 
 
 
