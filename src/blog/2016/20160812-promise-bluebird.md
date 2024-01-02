@@ -1,4 +1,4 @@
-### Promise 学习小结——bluebird
+# Promise 学习小结——bluebird
 ***
 
 #### 1、Promise.all([ ])

@@ -1,14 +1,12 @@
 ---
-title: vim插件1-easymotion
-comments: true
 date: 2016-11-03 22:31:41
-toc: true
 category:
 - vim
 tag:
 - vim
-
 ---
+
+# vim插件1-easymotion
 
 在vim操作中，经常需要跳转。而easymotion是一款非常好的用于实现快速跳转的插件。下面介绍几个常用的操作。详细的安装及使用教程请戳[官网][1]。
 <!--more-->

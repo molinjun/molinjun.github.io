@@ -1,11 +1,9 @@
 ---
-title: ubuntu搭建shadowsocks及优化加速
-comments: true
 date: 2016-11-29 00:32:22
 category: shadowsocks
 tag: shadowsocks 翻墙
-toc: true
 ---
+# ubuntu搭建shadowsocks及优化加速
 由于GFW，需要google我们就必须得翻墙。相信程序猿都比较熟悉shadowsocks这款翻墙软件了。它非常轻量，而且配置机器简单，而且支持多平台运行。因为刚好有开通了AWS的EC2,所以就刚好搭建一个shadowsocks服务器。
 下面就简单介绍一下在ubuntu下搭建shadowsocks服务器的方法。
 

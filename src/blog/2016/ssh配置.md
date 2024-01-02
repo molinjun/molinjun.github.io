@@ -1,11 +1,11 @@
 ---
-title: ssh配置
 comments: true
 date: 2016-11-25 15:33:24
 category: ssh
 tag: ssh github
 toc: true
 ---
+# ssh配置
 SSH(Secure SHell)是一种网络安全协议，用于计算机的加密登录。这种方式的登录，即使被截获，密码也不会泄露。在github上的项目，下载和push等，都需要在github账户设置ssh key。
 下面就简单介绍主机的ssh key生成方法。
 <!--more-->

@@ -1,11 +1,10 @@
 ---
-title: hexo安装与简介-hexo搭建博客1
 date: 2016-10-26 22:53:32
 category: Hexo
 tag: Hexo
-comments: true
-toc: true
 ---
+
+# hexo安装与简介-hexo搭建博客1
 
 Hexo是一个快速、方便的博客框架。使用markdown解析文章，通过几个简单命令快速生成静态页面，并快速部署。
 

@@ -1,11 +1,10 @@
 ---
-title: hexo常用命令-hexo搭建博客3
 date: 2016-10-30 22:53:32
 category: Hexo
 tag: Hexo
-comments: true
-toc: true
 ---
+# hexo常用命令-hexo搭建博客3
+
 hexo提供了一系列命令来完成项目创建、创建文章、静态化文件、调试以及部署的指令。
 以下就介绍几种常用的命令。
 <!-- more -->

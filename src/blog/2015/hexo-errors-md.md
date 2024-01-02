@@ -1,10 +1,10 @@
 ---
-title: hexo常遇到的错误
-comments: true
 date: 2016-11-27 20:08:07
 category: Hexo
 tag: Hexo
 ---
+# hexo常遇到的错误
+
 hexo使用node开发的，其中会依赖很多第三方依赖包。而一些依赖包的更新过快，经常会出现一些版本兼容的问题。下面就简单记录一些hexo搭建博客中遇到的错误，方便以后自己参考，也希望减少大家踩坑的时间。
 <!--more-->
 > 遇到问题，先看官网的[troubleshooting](https://hexo.io/docs/troubleshooting.html)

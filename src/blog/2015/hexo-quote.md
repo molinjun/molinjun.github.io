@@ -1,11 +1,9 @@
 ---
-title: maupassant主题的引用问题
-comments: true
 date: 2016-11-27 21:31:59
 category: Hexo
 tag: Hexo
-toc: true
 ---
+# maupassant主题的引用问题
 Maupassant是我很喜欢的一款hexo的主题，简约素雅。但是，原版本上还是有些不符合我口味的地方。例如，索引的问题。markdown原有的索引，是左边的竖杠，而Maupassant 却是一个大引号，看着还不得劲啊。所以参考着试着修改了样式。
 <!--more-->
 ### 修改方法

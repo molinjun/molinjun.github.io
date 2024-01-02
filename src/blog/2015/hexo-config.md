@@ -1,11 +1,9 @@
 ---
-title: hexo配置文件介绍-hexo搭建博客2
 date: 2016-10-28 22:53:32
 category: Hexo
 tag: Hexo
-comments: true
-toc: true
 ---
+# hexo配置文件介绍-hexo搭建博客2
 hexo项目可以通过配置文件，快速地个性化自己的网站内容。项目根目录下的\_config.yml为配置文件。
 配置文件的条目比较多，以下对于一些配置项，做一个简单的介绍。
 <!-- more -->
