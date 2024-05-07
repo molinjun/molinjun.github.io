@@ -3,11 +3,11 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://molinjun.com",
+  hostname: "https://molinjun.tech",
 
   author: {
     name: "莫林",
-    url: "https://molinjun.com",
+    url: "https://molinjun.tech",
   },
 
   // 图标
